@@ -10,3 +10,4 @@
 | 5 | Left Rotate an array by one place | Codestudio | <a href="https://www.naukri.com/code360/problems/left-rotate-an-array-by-one_5026278">Link</a> | [rotate1.java](rotate1.java) |
 | 6 | Left rotate an array by D places | Codestudio | <a href="https://www.naukri.com/code360/problems/rotate-array_1230543">Link</a> | [rotateD.java](rotateD.java) |
 | 7 | Move Zeros to end | Codestudio | <a href="https://www.naukri.com/code360/problems/ninja-and-the-zero-s_6581958">Link</a> | [zeroes_to_end.java](zeroes_to_end.java) |
+| 9 | Linear Search | Codestudio | <a href="https://www.naukri.com/code360/problems/linear-search_6922070">Link</a> | [linear_search.java](linear_search.java) |
